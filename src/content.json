@@ -1,0 +1,138 @@
+{
+  "activeTheme": "modern",
+  "animationStyle": "reveal",
+  "themeConfig": {
+    "activeTheme": "modern",
+    "animationStyle": "reveal"
+  },
+  "header": {
+    "logoText": "Pavan Kalyan",
+    "activeNav": "Home"
+  },
+  "navLinks": ["Home", "About", "Projects", "Experience", "Resume"],
+  "hero": {
+    "title": "Pavan Kalyan Goud Koppula",
+    "subtitle": "Full Stack Developer & AI Researcher",
+    "description": "Java Full Stack Developer focused on building scalable microservices, efficient backend systems, and AI-driven applications.",
+    "actions": [
+      {
+        "label": "Contact Me",
+        "type": "mailto",
+        "value": "pavankalyangoudkoppula.us@gmail.com"
+      },
+      { "label": "LinkedIn  ", "type": "link", "value": "https://www.linkedin.com/in/pavankalyan23" }
+    ]
+  },
+  "contact": {
+    "email": "pavankalyangoudkoppula.us@gmail.com",
+    "linkedIn": "https://www.linkedin.com/in/pavankalyan23",
+    "github": "pavankalyan0223"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me",
+    "paragraphs": [
+      "Hi there! I'm Pavan Kalyan Goud Koppula, I have experience working with Java, Spring Boot, React, Kafka, REST APIs, cloud technologies, and distributed systems to develop scalable and production-ready applications.I enjoy solving complex problems, optimizing performance, and building systems that are both reliable and maintainable.",
+      "I bring a blend of technical expertise from roles at LTIMindtree, Neonq, and Wipro, where I optimized microservices and improved system performance by up to 25%.",
+      "Beyond coding, I am an award-winning researcher in sentiment analysis and social networks, with publications recognized for excellence in the field."
+       ,"Tech Stack: Java, Spring Boot, Microservices, React, Angular, Kafka, PostgreSQL, MongoDB, AWS, Docker, CI/CD, AI/ML"],
+    "resumeUrl": "/Pavan_Kalyan_Goud_Koppula_Resume.pdf"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Flowmap-cli",
+      "description": "Codebase Visualization CLI published on npm for mapping file dependencies. Visualize your codebase as an interactive flow graph. Understand file dependencies, function calls, and project structure at a glance — without reading a single line of code.",
+      "technologies": "Node.js / TypeScript / npm",
+      "imageUrl": "/flowmap.png",
+      "link": "https://www.npmjs.com/package/flowmap-cli"
+    },
+    {
+      "id": 2,
+      "title": "NexusGraph STEM System",
+      "description": "AI research graph builder providing STEM reasoning using LLMs and semantic search.",
+      "technologies": "Python / LLMs / Semantic Search",
+      "imageUrl": "/nexus.png",
+      "link": "https://github.com/pavankalyan0223/STEM-Agent-Backend"
+    },
+    {
+      "id": 3,
+      "title": "Sprint Tab",
+      "description": "Private local workspace for sprint pages, clips, notes, and fast in-browser search. SprintTab is a privacy-first, local-only workspace designed for researchers, students, and power users who need to organize information without the clutter.",
+      "technologies": "React / Vite / TypeScript",
+      "imageUrl": "/sprinttab.png",
+      "link": "https://chromewebstore.google.com/search/SprintTab"
+    },
+    {
+      "id": 4,
+      "title": "Spring Boot Kafka Microservices Example",
+      "description": "A microservices-based project demonstrating event-driven communication between order, product, and inventory services using Kafka.",
+      "technologies": "Java / Spring Boot / Apache Kafka / MySQL / Docker Compose",
+      "imageUrl": "/spring.png",
+      "link": "https://github.com/pavankalyan0223/spring_boot_kafka_example"
+    },
+    {
+      "id": 6,
+      "title": "Emotion Detection Music Player",
+      "description": "An intelligent application that detects user emotions through facial expressions to automatically curate and play matching music playlists.",
+      "technologies": "Python / Deep Learning (CNN) / OpenCV / TensorFlow/Keras / Tkinter/PyQt.",
+      "imageUrl": "/emotion.jpg",
+      "link": "https://github.com/pavankalyan0223/Emotion_detection_Muisc_Player"
+    },
+    {
+      "id": 5,
+      "title": "Custom JPA Repository Example",
+      "description": "A technical implementation demonstrating how to extend standard Spring Data JPA functionality with custom repository logic and complex queries.",
+      "technologies": "Java / Spring Boot / Spring Data JPA / Hibernate / H2 Database / Gradle.",
+      "imageUrl": "/spring.png",
+      "link": "https://github.com/pavankalyan0223/CustomJPARespositoryExample"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Graduate Assistant",
+      "company": "Montclair State University",
+      "duration": "Aug 2024 - Dec 2025",
+      "points": [
+        "Contributed to university-led AI research in sentiment analysis, resulting in an IEMTRONICS publication (Best Paper Award).",
+        "Engineered a React + TypeScript frontend, improving UI performance by 40%.",
+        "Mentored 100+ students in Java, Python, and Web Technologies."
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Graduate Trainee",
+      "company": "LTIMindtree",
+      "duration": "Sep 2023 - Dec 2023",
+      "points": [
+        "Optimized Java Full Stack microservice modules, accelerating deployment cycles by 20% and improving overall team productivity by 15%.",
+        "Collaborated with senior developers on client projects, increasing team productivity by 15% through revised Agile workflows (Scrum).",
+        "Streamlined Java Full Stack development processes, accelerating deployment by 20% and addressing 30% of critical system bugs to improve stability."
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Developer Assistant",
+      "company": "Neonq Private Limited",
+      "duration": "Aug 2022 - Aug 2023",
+      "points": [
+        "Developed Spring Boot based microservices and REST APIs, improving backend performance by 25% and resolving 40% of reported service-related bugs.",
+        "Integrated Apache Kafka and implemented asynchronous processing to enable event-driven communication, improving scalability and reducing API response time by 22%.",
+        "Optimized JPA queries and refactored legacy services to enhance performance and maintainability across microservice modules.",
+        "Collaborated with QA and documented Akka Distributed Framework architecture recommendations, reducing post-release defects by 15% and preparing systems for scalable design."
+      ]
+    },
+    {
+      "id": 4,
+      "role": "Java Full-stack Developer",
+      "company": "Wipro Limited",
+      "duration": "Mar 2022 - Jul 2023",
+      "points": [
+        "Gained hands-on experience in Java full-stack development, contributing to key projects in web application design and database management.",
+        "Contributed to Java full-stack development using Spring Boot, REST APIs, relational databases, Service Discovery (Eureka), API Gateways, and Redis, supporting delivery of 3+ modules and reducing API latency by 25%.",
+        "Developed a capstone end-to-end application from design to deployment, improving workflow efficiency by 30% while collaborating with a team of 5+ developers and senior mentors."
+      ]
+    }
+  ]
+}
